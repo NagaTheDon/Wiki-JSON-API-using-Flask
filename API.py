@@ -83,6 +83,7 @@ def revision_at_timestamp(num, time):
             return jsonify(text)
 
         except KeyError:
+        	print("This revision does not exist!")
             return jsonify("This revision does not exist! Make a revision using the POST function described in README.txt")
 
 
