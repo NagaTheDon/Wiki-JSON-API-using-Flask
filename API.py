@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request,json
+from flask import Flask, jsonify, request,json, redirect
 import pywikibot
 from datetime import datetime
 
@@ -15,6 +15,13 @@ def update_revisions(name_of_article):
 
 
 app = Flask(__name__)
+
+@app.route("/", methods = ["GET"])
+def invalid_start():
+	print("Wrong Page! Redirecting to /documents")
+	return redirect("http://127.0.0.1:5000/documents/", code=302)
+
+	
 
 @app.route("/documents", methods = ["GET"])
 @app.route("/documents/", methods = ["GET"])
