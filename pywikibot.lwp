@@ -1,0 +1,9 @@
+#LWP-Cookies-2.0
+Set-Cookie3: WMF-Last-Access-Global="08-May-2018"; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2018-06-09 00:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: centralauth_Token=f42f4780358d0ae3da0ea92b46d363c3; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2019-05-08 03:22:59Z"; httponly=None; version=0
+Set-Cookie3: centralauth_User=Nagathedon; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; secure; expires="2019-05-08 03:22:59Z"; httponly=None; version=0
+Set-Cookie3: forceHTTPS=true; path="/"; domain=".wikipedia.org"; path_spec; domain_dot; expires="2018-06-07 03:22:59Z"; httponly=None; version=0
+Set-Cookie3: WMF-Last-Access="08-May-2018"; path="/"; domain="en.wikipedia.org"; path_spec; secure; expires="2018-06-09 00:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: enwikiUserID=33709582; path="/"; domain="en.wikipedia.org"; path_spec; secure; expires="2019-05-08 03:22:59Z"; httponly=None; version=0
+Set-Cookie3: enwikiUserName=Nagathedon; path="/"; domain="en.wikipedia.org"; path_spec; secure; expires="2019-05-08 03:22:59Z"; httponly=None; version=0
+Set-Cookie3: loginnotify_prevlogins="2018-z0zja1-ke1f1pchr8arp8mx0n0lqi49blhwvoi"; path="/"; domain="en.wikipedia.org"; path_spec; secure; expires="2018-11-04 03:22:59Z"; httponly=None; version=0
